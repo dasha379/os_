@@ -1,4 +1,4 @@
-.PHONY: clean
+.PHONY: clean run
 
 run:
 	./main $(num_threads)
