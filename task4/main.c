@@ -19,7 +19,7 @@ int main(int argc, char** argv)
   int res = 0;
   char dict_short[SIZE];
   char dict_long[OPTS][SIZE];
-  char non_options[SIZE];
+  char* non_options[SIZE];
 
   const struct option long_options[] = {
     {"elbrus", required_argument, NULL, 0},
