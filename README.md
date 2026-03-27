@@ -10,3 +10,16 @@ make run num_threads=<your_number>
 make
 ./main <list of your arguments>
 ```
+
+## 5 задание
+инструкция по сборке:
+```
+make run
+```
+
+## 6 задание
+инструкция по сборке:
+```
+make
+./main <name of your file>
+```
