@@ -23,3 +23,9 @@ make run
 make
 ./main <name of your file>
 ```
+
+## 7 задание
+инструкция по сборке:
+```
+make run filename=<your_path_to_the_file>
+```
