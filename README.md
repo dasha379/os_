@@ -29,3 +29,9 @@ make
 ```
 make run filename=<your_path_to_the_file>
 ```
+
+## 9 задание
+инструкция по сборке:
+```
+make run
+```
