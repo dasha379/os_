@@ -35,3 +35,9 @@ make run filename=<your_path_to_the_file>
 ```
 make run
 ```
+
+## 10 задание
+инструкция по сборке:
+```
+make run
+```
